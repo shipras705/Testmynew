@@ -3,3 +3,5 @@ New document
 new new
 https://github.com/shipras705/Testmynew.git
 https://github.com/shipras705/Testmynew.git
+https://github.com/shipras705/Testmynew
+https://github.com/shipras705/Testmynew
